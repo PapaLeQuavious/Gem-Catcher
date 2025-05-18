@@ -9,13 +9,14 @@ This game was created as a learning exercise while following the [Udemy course b
 
 ## Goals
 
-- Learn the fundamentals of game development.
-- Understand how to structure and write game logic.
+- Learn the fundamentals of Godot 4.4.
+- Learn how to structure a game project for expandable development.
+- Understand how to structure and write game logic in C#.
 - Gain practical experience through hands-on projects.
 
 ## Future Plans
 
 After completing the course:
 
-- These small games will be revisited and improved using the new knowledge gained.
+- These small games may be revisited and improved using the new knowledge gained.
 - If development proves enjoyable, polished versions of the games may be uploaded to [itch.io](https://itch.io) as free releases.
